@@ -2,7 +2,7 @@
 
 ## 삭제 API 결과(포스트맨)
 
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 
 
